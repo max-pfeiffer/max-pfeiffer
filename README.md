@@ -12,4 +12,9 @@ My packages on [PyPI](https://pypi.org/):
 * [keycloak-jwt-checker](https://pypi.org/project/keycloak-jwt-checker/)
 * [static-site-containerizer](https://pypi.org/project/static-site-containerizer/)
 
-![max-pfeiffer's Stats](https://github-readme-stats.vercel.app/api?username=max-pfeiffer&theme=vue&show_icons=true&hide_border=true&count_private=true)![max-pfeiffer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=max-pfeiffer&theme=vue&hide_border=true)![max-pfeiffer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=max-pfeiffer&theme=vue&show_icons=true&hide_border=true&layout=compact)
+<p align = "center">
+![max-pfeiffer's Stats](https://github-readme-stats.vercel.app/api?username=max-pfeiffer&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![max-pfeiffer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=max-pfeiffer&theme=vue&hide_border=true)
+</p>
+
+![max-pfeiffer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=max-pfeiffer&theme=vue&show_icons=true&hide_border=true&layout=compact)
