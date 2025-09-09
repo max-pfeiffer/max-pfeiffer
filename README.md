@@ -13,8 +13,6 @@ My packages on [PyPI](https://pypi.org/):
 * [static-site-containerizer](https://pypi.org/project/static-site-containerizer/)
 
 <p align = "center">
-![max-pfeiffer's Stats](https://github-readme-stats.vercel.app/api?username=max-pfeiffer&theme=vue&show_icons=true&hide_border=true&count_private=true)
-![max-pfeiffer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=max-pfeiffer&theme=vue&hide_border=true)
+    <img alt="max-pfeiffer's Stats" src="https://github-readme-stats.vercel.app/api?username=max-pfeiffer&theme=vue&show_icons=true&hide_border=true&count_private=true">
+    <img alt="max-pfeiffer's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=max-pfeiffer&theme=vue&hide_border=true">
 </p>
-
-![max-pfeiffer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=max-pfeiffer&theme=vue&show_icons=true&hide_border=true&layout=compact)
