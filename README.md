@@ -11,8 +11,3 @@ My packages on [PyPI](https://pypi.org/):
 * [dynamic-dns-update-client](https://pypi.org/project/dynamic-dns-update-client/)
 * [keycloak-jwt-checker](https://pypi.org/project/keycloak-jwt-checker/)
 * [static-site-containerizer](https://pypi.org/project/static-site-containerizer/)
-
-<p align = "center">
-    <img alt="max-pfeiffer's Stats" src="https://github-readme-stats.vercel.app/api?username=max-pfeiffer&theme=vue&show_icons=true&hide_border=true&count_private=true" width=400>
-    <img alt="max-pfeiffer's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=max-pfeiffer&theme=vue&hide_border=true" width=400>
-</p>
